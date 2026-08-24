@@ -48,7 +48,7 @@ MySQL Community Server (download)
 MySQL Connector/J driver jar (download)
 Setup
 ```bash
-git clone https://github.com/Abhishek102501/Student-Management-System.git
+git clone https://github.com/shivamsingh12-cyber/student-management-system.git
 cd Student-Management-System
 ```
 Create the database:
